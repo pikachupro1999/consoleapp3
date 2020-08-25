@@ -1,4 +1,4 @@
-// ConsoleApplication3.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// ConsoleApplication3.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 
@@ -10,7 +10,7 @@ int main()
 	int c = a + b;
 	
 }
-
+//nỏe about change
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
